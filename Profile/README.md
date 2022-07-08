@@ -1,5 +1,6 @@
 This is the codebase for https://textmmo.com
 
+## Service Catalogue
  - Web client in React and Typescript: https://github.com/textmmorpg/client
  - Primary server for game business logic using NodeJS and Express: https://github.com/textmmorpg/server
  - Globe graphics for interactive map using ThreeJS and Express: https://github.com/textmmorpg/world
